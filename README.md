@@ -1,4 +1,4 @@
-# Premier League Data Analysis Project
+Premier League Data Analysis Project
 Project Overview
 This project delves into the Premier League's 22/23 season data, sourced from the official Premier League website. The analysis is structured around four main categories: Player Information, Player Performance, Team Performance, and Salary Analysis. The project aims to uncover meaningful insights and patterns across player demographics, performance metrics, and financial data, providing a robust understanding of the league's dynamics.
 
@@ -37,7 +37,6 @@ Salary distribution by ranges and analysis of salary-performance correlation.
 Relationship between age and performance metrics.
 Trends in salary by nationality and position.
 Insights into highly paid positions or clubs and their impact on performance.
-
 Methods
 Data Cleaning and Preparation: Missing values were handled, and data types were standardized.
 Exploratory Data Analysis (EDA): Statistical summaries and visualizations were used to understand the data distribution and initial patterns.
@@ -50,3 +49,4 @@ Salary and Performance Correlation: Salary patterns were evident by position and
 
 Results
 A dashboard was created to visualize top players by performance metrics, including goals, assists, and salary distribution. The report summary and insights into age-performance correlations, salary trends, and team performance are provided in detail in the report.pdf file.
+
